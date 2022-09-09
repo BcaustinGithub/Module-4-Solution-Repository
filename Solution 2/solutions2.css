@@ -53,6 +53,8 @@ span {
   background-color: #337590;
   color: white;
   padding: 10px;
+  margin-left: 10em;
+  margin-right: 10em;
 }
 
 p.date {

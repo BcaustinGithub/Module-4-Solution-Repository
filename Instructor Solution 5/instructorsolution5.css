@@ -56,19 +56,15 @@ span {
 */
 
 body {
-  grid-gap: 16%; /* Improve the white space */
+  grid-gap: 2em; /* Improve the white space */
 }
 
 .content {
-  background: auto; /* Improve the color/contrast */
-  padding: 2em; /* Improve the white space */
-  font-size: 21px;
-  width: 70%;
-  margin-top: 1.5em;
+  background: #0044b9; /* Improve the color/contrast */
+  padding: 1.5em; /* Improve the white space */
 }
 
 h1 {
-  margin-left: -6em; /* Improve the alignment */
-  font-size: 30px; /* Improve the visual hierarchy */
-  font-weight: 900;
+  margin-left: 0; /* Improve the alignment */
+  font-size: 2.3em; /* Improve the visual hierarchy */
 }
